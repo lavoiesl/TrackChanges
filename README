@@ -1,0 +1,5 @@
+TrackChanges enables to easily and unobtrusively add watches on forms and warn a user of unsaved changes via confirm()
+
+Requires jQuery
+
+Planned to become a jQuery plug-in.
